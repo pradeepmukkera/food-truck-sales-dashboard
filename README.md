@@ -68,4 +68,4 @@ This Power BI dashboard analyzes the performance of a food truck business operat
 
 Feel free to reach out for feedback or collaboration.
 
-[LinkedIn](www.linkedin.com/in/pradeep-mukkera-5613b3200) | [Email](mailto:pradeepmukkera525@gmail.com)
+[LinkedIn]((https://www.linkedin.com/in/pradeep-mukkera-5613b3200)) | [Email](mailto:pradeepmukkera525@gmail.com)
